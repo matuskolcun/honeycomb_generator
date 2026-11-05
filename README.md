@@ -1,5 +1,3 @@
-# Script description and readme
-
 <p align="center">
   <img src="honeycomb.png" alt="Honeycomb Designer Logo" width="120">
 </p>
