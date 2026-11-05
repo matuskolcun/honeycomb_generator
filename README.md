@@ -31,19 +31,19 @@ The application was designed for desktop use, including Windows. Tkinter is comm
 
 ## Installation and launch
 
-1. Download `honeycomb_designer_v1.0.4_EN.py` from this repository.
+1. Download `honeycomb_designer.py` from this repository.
 2. Place `honeycomb.png` in the same folder if you want the application icon and About-window image. The application can run without this image.
 3. Open a terminal in that folder.
 4. Run:
 
    ```bash
-   python honeycomb_designer_v1.0.4_EN.py
+   python honeycomb_designer.py
    ```
 
    On Windows, you can alternatively use:
 
    ```powershell
-   py honeycomb_designer_v1.0.4_EN.py
+   py honeycomb_designer.py
    ```
 
 No `pip install` step is needed.
