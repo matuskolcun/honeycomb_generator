@@ -52,8 +52,6 @@ No `pip install` step is needed.
 
 ## Screenshot
 
-![Honeycomb Designer](screenshots/preview_honeycomb.png)
-
 ![Honeycomb Designer Preview](screenshots/screenshot_v1.0.4.png)
 
 
@@ -95,6 +93,8 @@ The preview also reports plate dimensions, side angle, total opening count, and 
 Click **Export preview as PNG**, choose a destination, and save the image. The exported PNG includes the pattern and a text summary of the model parameters and openings.
 
 The PNG is an image preview, not a CAD model.
+
+![Honeycomb Designer](screenshots/preview_honeycomb.png)
 
 ### 5. Generate a script for Autodesk Fusion
 
