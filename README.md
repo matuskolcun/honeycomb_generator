@@ -1,6 +1,4 @@
-# Honeycomb Designer for Autodesk Fusion
-
-**Version 1.0.4**
+# Script description and readme
 
 <p align="center">
   <img src="honeycomb.png" alt="Honeycomb Designer Logo" width="120">
