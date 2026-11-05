@@ -147,7 +147,7 @@ The PNG export represents the top-view geometry and includes a parameter summary
 
 ## License
 
-No license has been specified in this README. If you want others to reuse, modify, or redistribute the code under defined terms, add a `LICENSE` file and update this section accordingly.
+MIT License applied.
 
 ## Disclaimer
 
