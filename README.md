@@ -112,23 +112,9 @@ The generated script creates the plate body and cuts the calculated hexagonal th
 
 Use **Save settings JSON** to export the current configuration and **Load settings JSON** to restore a saved configuration.
 
-The application also attempts to preserve your last-used settings automatically. On Windows, these are stored under the user's roaming application data directory in `HoneycombDesigner/settings.json`.
+The application preserve your last-used settings automatically. On Windows, these are stored under the user's roaming application data directory in `HoneycombDesigner/settings.json`.
 
 ## Default configuration
-
-| Setting | Default |
-| --- | ---: |
-| Plate length | 220 mm |
-| Plate width | 120 mm |
-| Plate thickness | 20 mm |
-| Side angle | 1 degree |
-| Wall thickness | 1.5 mm |
-| Margin | 2 mm |
-| Gap between bands | 2 mm |
-| Band 1 | 6 mm, 4 rows |
-| Band 2 | 8 mm, 5 rows |
-| Band 3 | 10 mm, 4 rows |
-| 3D preview | Off |
 
 The application has a maximum of **1,500 candidate openings** per layout.
 
