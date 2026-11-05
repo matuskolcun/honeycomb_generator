@@ -12,8 +12,12 @@ Honeycomb Designer is a lightweight desktop application for designing honeycomb 
 
 The application is built with **Python and Tkinter** and uses only the Python standard library. No additional Python packages are required.
 
+<h3 align="center">
+  At least a basic understanding of Fusion and its tools is required.
+</h3>
+
 | Generated base object from script | Added some custom modifications | Final 3D printed product |
-|------------|----------|--------|
+|------------|----------|----------|
 | <img src="screenshots/Autodesk Fusion - screwdriver holder 1.png" width="100%"> | <img src="screenshots/Autodesk Fusion - screwdriver holder 2.png" width="100%"> | <img src="screenshots/Final_holder.png" width="100%"> |
 
 ## Features
