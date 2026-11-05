@@ -2,6 +2,16 @@
 
 **Version 1.0.4**
 
+<p align="center">
+  <img src="honeycomb.png" alt="Honeycomb Designer Logo" width="120">
+</p>
+
+<h1 align="center">Honeycomb Designer</h1>
+
+<p align="center">
+  Honeycomb Pattern Generator for Autodesk Fusion
+</p>
+
 Honeycomb Designer is a lightweight desktop application for designing honeycomb patterns on a plate and generating a Python script that creates the corresponding 3D model in Autodesk Fusion.
 
 The application is built with **Python and Tkinter** and uses only the Python standard library. No additional Python packages are required.
