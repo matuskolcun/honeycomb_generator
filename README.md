@@ -54,7 +54,7 @@ No `pip install` step is needed.
 
 ![Honeycomb Designer](screenshots/preview_honeycomb.png)
 
-![Honeycomb Designer Preview](screenshots/preview_honeycomb.png)
+![Honeycomb Designer Preview](screenshots/screenshot_v1.0.4.png)
 
 
 ### 1. Set plate dimensions
