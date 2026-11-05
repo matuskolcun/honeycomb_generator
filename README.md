@@ -4,9 +4,9 @@
 
 <h1 align="center">Honeycomb Designer</h1>
 
-<p align="center">
+<h3 align="center">
   Honeycomb Pattern Generator for Autodesk Fusion
-</p>
+</h3>
 
 Honeycomb Designer is a lightweight desktop application for designing honeycomb patterns on a plate and generating a Python script that creates the corresponding 3D model in Autodesk Fusion.
 
